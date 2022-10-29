@@ -1,0 +1,14 @@
+.home{
+    width: fit-content;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 20px auto;
+    border: 1px solid purple;
+    padding: 5px;
+    border-radius: 2px;
+
+}
+.homepages{
+    width: fit-content;
+    margin: 10px auto;
+}

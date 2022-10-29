@@ -1,0 +1,14 @@
+.users{
+    width: 400px;
+    margin: 40px auto;
+}
+img{
+    border-bottom: 20px;
+    border-radius: 10px;
+}
+h3{
+    color: 'white'
+}
+p{
+    color: 'white'
+}
